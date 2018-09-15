@@ -1,4 +1,4 @@
-//�÷֣�10
+//µÃ·Ö£º10
 #include<stdio.h>
 #include<stdlib.h>
 
