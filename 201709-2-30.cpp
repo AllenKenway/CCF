@@ -1,4 +1,4 @@
-//考虑所有情况 得分30
+//驴录脗脟脣霉脫脨脟茅驴枚 碌脙路脰30
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
