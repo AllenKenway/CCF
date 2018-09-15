@@ -1,4 +1,4 @@
-//�÷�50
+//µÃ·Ö50
 #include<stdio.h>
 #include<stdlib.h>
 
